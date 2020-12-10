@@ -1,4 +1,4 @@
-# -PRACTICE_09-Bankist-date-time
+# practice-09-bankist-date-time
 
 ## Practice Project - course project;
 ## You can check it here: https://hopeful-ramanujan-a0f4c6.netlify.app/
